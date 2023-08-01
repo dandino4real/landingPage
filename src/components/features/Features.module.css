@@ -1,0 +1,51 @@
+.featureContainer {
+    display: flex;
+    flex-direction: row;
+    margin: 3rem;
+    width: 80%;
+}
+
+.illu {
+    height: 25rem;
+    width: 25rem;
+    margin-left: 10rem;
+}
+
+.h2 {
+    color: black;
+    margin-left: 1rem;
+    font-weight: 600;
+}
+
+.fP {
+    color: #4F5665;
+    margin-left: 1rem;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15rem;
+    justify-content: flex-start;
+    align-items: flex-start;
+    list-style: none;
+    margin-top: 3rem;
+}
+
+.good {
+    height: 0.8rem;
+    width: 0.8rem;
+    list-style: none;
+    margin-right: 1rem;
+
+}
+
+.fList {
+    list-style: none;
+    gap: 1rem;
+    display: flex;
+    flex-direction: column;
+    margin-left: -1.4rem;
+    color: #4F5665;
+    font-size: x-small;
+}

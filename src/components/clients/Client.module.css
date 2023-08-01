@@ -1,0 +1,39 @@
+.clientContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    gap: 15rem;
+    margin-left: 8rem;
+    background-color: white;
+    height: 10rem;
+    border-radius: 1rem;
+    box-shadow: 0px 0px 30px 0px rgba(189, 177, 177, 0.25);
+}
+
+.img {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    line-height: 0.1rem;
+    padding: -1rem;
+}
+.users {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 5rem;
+
+}
+
+p{
+    margin-top: 0.2rem;
+    color: #4F5665;
+    font-size: 0.7rem;
+}
